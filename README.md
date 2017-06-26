@@ -6,7 +6,7 @@ student can access its own folder and the instructor can access all folders of t
 There is also a system tool ("Copyright Police"), in which authorized persons can review all instructor uploaded content.
 
 ## Links
-- [Download Lastest Release](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker/releases/latest)
+- [Download Latest Release](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker/releases/latest)
 - [View all releases](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker/releases)
 - [User Manual](UserManual.pdf)
 
