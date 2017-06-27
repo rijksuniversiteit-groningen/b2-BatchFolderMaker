@@ -7,7 +7,7 @@ There is also a system tool ("Copyright Police"), in which authorized persons ca
 
 ## Links
 - [Download Latest Release](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker/releases/latest)
-- [View all releases](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker/releases)
+- [View All Releases](https://github.com/rijksuniversiteit-groningen/b2-BatchFolderMaker/releases)
 - [User Manual](UserManual.pdf)
 
 ## Release Notes
